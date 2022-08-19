@@ -11,5 +11,5 @@ User should collect stones by numbers.
 User action:
 User can move stone by swipe
 
-Stone should located on correct area to confirm that location is correct.
-
+Task board:
+https://trello.com/b/MYXMYfBc/fifteen
